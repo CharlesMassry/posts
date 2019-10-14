@@ -1,11 +1,14 @@
 module.exports = {
+  pathPrefix: `/posts`,
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Charlie Massry`,
+    author: `Charlie Massry`,
+    description: `Charlie Massry - a Software Engineer.`,
+    siteUrl: `https://www.charliemassry.com/`,
+    footer: "",
     social: {
-      twitter: `kylemathews`,
+      twitter: `CharlesMassry`,
+      github: `CharlesMassry`
     },
   },
   plugins: [
