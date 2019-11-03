@@ -61,7 +61,7 @@ module.exports = {
       options: {
         name: `Blog`,
         short_name: `Blog`,
-        start_url: `/`,
+        start_url: `/posts/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
